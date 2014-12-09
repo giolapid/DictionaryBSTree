@@ -1,0 +1,14 @@
+Gio Lapid
+CMPS 12B Summer 13
+PA 5: Dictionary.c Using Hashtables
+08/09/13
+------------------------------------------
+Table of Contents
+      i. README
+      ii. makefile
+      iii. Dictionary.java
+      iv. DictionaryInterface.java
+	  v. KeyCollisionException.java
+      vi. KeyNotFoundException.java
+      vii. DictionaryClient.java
+   
